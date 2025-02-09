@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Abhijay! 👋
 
-<!--
-**abhijayhm/abhijayhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started my journey with web and native app development, building apps like *Resuscitate* that kicked things off. Over time, I shifted my focus to more complex fields like **ROS**, **AI**, and **industrial automation**, while still keeping my hands in web development.
 
-Here are some ideas to get you started:
+### What I’m up to now:
+- **ROS** & autonomous robot driving 🤖  
+- **AI research** & mathematical applications (masked as AI, of course) 🧠  
+- **Industrial automation** & system optimization ⚙️  
+- **Web development**—keeping the fundamentals strong 🌐  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests:
+- Exploring all areas of **computer science**:  
+    - **Networking** 🌐  
+    - **Cybersecurity** 🔒  
+    - And yes, anything that involves **problem-solving** 💡  
+
+I’m always learning, building, and breaking things to make them better. Let's collaborate and create something awesome!
