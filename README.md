@@ -14,4 +14,6 @@ I started my journey with web and native app development, building apps like *Re
     - **Cybersecurity** 🔒  
     - And yes, anything that involves **problem-solving** 💡  
 
-I’m always learning, building, and breaking things to make them better. Let's collaborate and create something awesome!
+I’m always learning, building, and breaking things to make them better. Let’s collaborate and create something awesome!
+
+**P.S.** Sorry for the private repos; can’t publicize the code that paid (unless you’re viewing it with me 😉)  
